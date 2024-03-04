@@ -1,5 +1,5 @@
 #  Website with Open Source LLMs
-### Assigment From IBM Advance AI Infitite Learning
+### Assigment From IBM Advance AI Infinite Learning
 
 Author : Cognitive Class AI
 
